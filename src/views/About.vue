@@ -1,6 +1,5 @@
 <template>
   <div>About page</div>
-  <div>666</div>
   <button @click="handelAdd">inc</button>
   <button @click="handelDec">dec</button>
   <router-link to="/">to Home</router-link>
